@@ -1,0 +1,16 @@
+
+@font-face {
+  font-family:"DIN-Medium";
+  src: url("din/DIN-Medium.otf");
+}
+
+
+@font-face {
+  font-family:"DIN-Bold";
+  src: url("din/DIN-Bold.otf");
+}
+
+@font-face {
+  font-family: "MFShangYa";
+  src: url("./MFShangYa.otf");
+}
